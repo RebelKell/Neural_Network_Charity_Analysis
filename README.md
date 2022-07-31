@@ -30,11 +30,13 @@ We used two hidden layers with 80 nodes on the first layer and 30 on the second 
 - <strong>Were you able to achieve the target model performance?</strong><br />
 The target model performance of 85% not achieved in the first pass with an accuracy score of 72.85%.
 
-    ![Accuracy Sore](/Resources/Images/LossAccuracy.png)
+![Accuracy Score](/Resources/Images/LossAccuracy.png)
+
 <br />
 <br />
 - <strong>What steps did you take to try and increase model performance?</strong><br />
-In order to improve the accuracy we attempted a few different methods of optimization, including adding 
+In order to improve the accuracy we attempted a few different methods of optimization, including adding<br> 
+
   - Additional hidden layers
   ![added lyer](/Resources/Images/added_layer_accuracy.png)
   
